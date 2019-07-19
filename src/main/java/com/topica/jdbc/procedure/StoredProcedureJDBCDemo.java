@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class App {
+public class StoredProcedureJDBCDemo {
 
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/jdbc";
     private static final String USERNAME = "root";
